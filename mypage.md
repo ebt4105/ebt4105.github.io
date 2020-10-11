@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Edward_about_me_page
 
 You can use the [editor on GitHub](https://github.com/ebt4105/ebt4105.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Short Intro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The high school I attended is relatively new as I was the 5th year to graduate. My high school, Academy for Software Engineering, was located in downtown Manhattan, Union Square.
 
 ```markdown
 Syntax highlighted code block
